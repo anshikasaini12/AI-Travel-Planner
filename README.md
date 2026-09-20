@@ -15,22 +15,22 @@ Yatra AI is an AI-assisted travel planning app built for Indian travellers — e
 ## Screenshots
 
 **Landing page**
-![Landing page](./screenshots/01-landing.png)
+<img width="881" height="422" alt="Screenshot 2026-09-20 184034" src="https://github.com/user-attachments/assets/60dd91d1-ce1e-40b7-924e-8d7011d5c563" />
 
 **Everything one trip needs**
-![Features overview](./screenshots/02-features.png)
+<img width="838" height="389" alt="Screenshot 2026-09-20 184040" src="https://github.com/user-attachments/assets/d0c36055-746e-4dff-a041-a2af681b2a75" />
 
 **My trips**
-![My trips dashboard](./screenshots/03-my-trips.png)
+<img width="844" height="302" alt="Screenshot 2026-09-20 184055" src="https://github.com/user-attachments/assets/b10166fd-bd18-4cd3-aaa4-524eec530dbc" />
 
 **Plan a new trip**
-![Plan a new trip form](./screenshots/04-plan-a-trip.png)
+<img width="689" height="439" alt="Screenshot 2026-09-20 184118" src="https://github.com/user-attachments/assets/df034b9b-d65d-496c-aa54-06d7a874471e" />
 
 **Trip detail — Getting there**
-![Trip detail with transport options](./screenshots/05-trip-getting-there.png)
+<img width="685" height="434" alt="Screenshot 2026-09-20 184307" src="https://github.com/user-attachments/assets/8522cf8a-5365-4765-82b5-4eee459ddd5c" />
 
 **Trip detail — Comparing transport options**
-![More transport options: train, bus, flight](./screenshots/06-trip-options.png)
+<img width="683" height="400" alt="Screenshot 2026-09-20 184312" src="https://github.com/user-attachments/assets/1e01a472-2338-4ae2-b89b-4a7ce65bfe44" />
 
 ## Tech Stack
 
