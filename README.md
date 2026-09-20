@@ -109,7 +109,3 @@ bun run preview     # Preview a production build locally
 bun run lint         # Run ESLint
 bun run format       # Format with Prettier
 ```
-
-## License
-
-Add a license of your choice (e.g. MIT) here.
